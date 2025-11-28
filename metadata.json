@@ -1,0 +1,5 @@
+{
+  "name": "定语从句可视化教学",
+  "description": "一个交互式的英语定语从句（Attributive Clause）学习工具，包含SVG原理动画、丰富例句讲解以及基于Gemini的AI语法助教。",
+  "requestFramePermissions": []
+}
